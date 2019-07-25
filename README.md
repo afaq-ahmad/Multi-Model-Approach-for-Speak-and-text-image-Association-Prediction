@@ -1,0 +1,2 @@
+# Multi-Model-Approach-for-Speak-and-text-image-Association-Prediction
+Our task is to Recognize whether an image of a hand-written digit and a recording of a spoken digit refer to the same or different number. We have two input data written number image and number spoken sound MFCC features and one output consist of boolean array state that the respective sound and image matches or not. We choose multi model approach using LSTM for audio features and CNN for image data. The output of both model concatenated at the end and binary loss function applied. 
