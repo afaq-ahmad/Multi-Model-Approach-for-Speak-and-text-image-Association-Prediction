@@ -33,3 +33,6 @@ Model is evaluated on test data consists of 877 class 0 dataset, and 887 class o
 
 The Trained model and test data prediction has been saved in the folder to further check the working and evaluation of model performance.
 
+
+#### Denote:
+Bitcoin: 3QFpMuvMcMaZ6cQUHqgrd2mDirz1JZi1W8
